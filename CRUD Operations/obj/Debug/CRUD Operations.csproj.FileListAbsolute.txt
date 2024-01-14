@@ -1,0 +1,10 @@
+D:\Study\C# codes\Semester 4\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.csproj.AssemblyReference.cache
+D:\Study\C# codes\Semester 4\CRUD Operations\CRUD Operations\obj\Debug\CRUD_Operations.Form1.resources
+D:\Study\C# codes\Semester 4\CRUD Operations\CRUD Operations\obj\Debug\CRUD_Operations.Properties.Resources.resources
+D:\Study\C# codes\Semester 4\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.csproj.GenerateResource.cache
+D:\Study\C# codes\Semester 4\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.csproj.CoreCompileInputs.cache
+D:\Study\C# codes\Semester 4\CRUD Operations\CRUD Operations\bin\Debug\CRUD Operations.exe.config
+D:\Study\C# codes\Semester 4\CRUD Operations\CRUD Operations\bin\Debug\CRUD Operations.exe
+D:\Study\C# codes\Semester 4\CRUD Operations\CRUD Operations\bin\Debug\CRUD Operations.pdb
+D:\Study\C# codes\Semester 4\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.exe
+D:\Study\C# codes\Semester 4\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.pdb
